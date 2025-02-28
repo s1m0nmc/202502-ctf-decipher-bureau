@@ -1,4 +1,4 @@
-# decipher-bureau.ctf.jepsec.com.au
+# [Decipher Bureau](https://www.decipherbureau.com/) [CrikeyCon](https://crikeycon.com/) CTF
 
 ## Intro
 * Experienced BA with ancient dev skills tackles the CTF at http://decipher-bureau.ctf.jepsec.com.au, which is generously provided by the nice people at cybersec recruitment agency [Decipher Bureau](https://www.decipherbureau.com/) (with [Jepsec](jepsec.com.au) doing a CTF-as-a-service under the hood). 
